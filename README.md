@@ -18,6 +18,9 @@ _https://github.com/Nalundquist/social-media-mockup.git_
 ## Description
 _This application uses React to create a mock up social media platform_
 
+![Diagram of social media layout](./src/img/soc-med-mock.drawio.png?raw=true"Diagram")
+
+
 ## Setup/Installation Requirements
 
 * _Clone this repository ```https://github.com/Nalundquist/social-media-mockup.git``` into your desktop_

@@ -15,13 +15,13 @@ function App() {
     <React.Fragment>
       <Header />
       <div style={bodyrow}>
-        <div style={{width: "30%", height: "90vh", backgroundColor: "blue"}}>
+        <div style={{width: "30%", height: "90vh"}}>
           <LeftBar />
         </div>
-        <div style={{width: "40%", height: "90vh", backgroundColor: "red"}}>
+        <div style={{width: "40%", height: "90vh", padding: "10px", margin: "5px", border: "2px solid grey"}}>
           <PostBody />
         </div>
-        <div style={{width: "30%", height: "90vh", backgroundColor: "yellow", color: "blue"}}>
+        <div style={{width: "30%", height: "45vh", padding: "10px", margin: "5px", border: "2px solid grey"}}>
           <RightBar />
         </div>
       </div>
